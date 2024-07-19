@@ -1,0 +1,1 @@
+const fullname: string ='nitichai promsopa'
