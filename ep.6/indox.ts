@@ -32,3 +32,4 @@ const fruits = ["banana","orange","apple","mango"];
 fruits.sort();//เรื่องa-z
 console.log(fruits)//["banana","orange","apple","mango"]
 
+..
