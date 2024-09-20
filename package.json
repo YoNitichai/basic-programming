@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mailchecker": "^6.0.9"
+  }
+}
